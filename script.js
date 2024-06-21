@@ -78,19 +78,3 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-/*Contact form*/
-document.addEventListener('DOMContentLoaded', function () {
-    const form = document.getElementById('contact');
-
-    form.addEventListener('submit', function (event) {
-        event.preventDefault();
-
-        const name = document.getElementById('text').value;
-        const phone = document.getElementById('phone').value;
-        const message = document.getElementById('message').value;
-
-        const whatsappURL = `https://wa.me/213658934340?text=Name: ${encodeURIComponent(name)}%0APhone: ${encodeURIComponent(phone)}%0AMessage: ${encodeURIComponent(message)}`;
-
-        window.open(whatsappURL, '_blank');
-    });
-});
