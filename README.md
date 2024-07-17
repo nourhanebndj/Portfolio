@@ -11,7 +11,7 @@ Built with HTML, pure CSS, and JavaScript to test my knowledge on CSS grid layou
 Here is a video demonstration of the project:
 
 <video width="600" controls>
-  <source src="./Portfolio%20Video.mp4">
+![screen-gif](./video-to-gif-converter.gif) 
 </video>
 
 ## Features
