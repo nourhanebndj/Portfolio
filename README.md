@@ -8,11 +8,8 @@ Built with HTML, pure CSS, and JavaScript to test my knowledge on CSS grid layou
 
 ## Project Demo
 
-Here is a video demonstration of the project:
 
-<video width="600" controls>
 ![screen-gif](./video-to-gif-converter.gif) 
-</video>
 
 ## Features
 
